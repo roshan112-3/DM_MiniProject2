@@ -1,6 +1,6 @@
 # DM_MiniProject2
 
-## This repo is solely done as part of an assignment for the coursework, Data Mining CSCI 5502-872 Fall 2024 Term
+#### This repo is solely done as part of an assignment for the coursework, Data Mining CSCI 5502-872 Fall 2024 Term
 
 Activity 1: Create and manage projects in Python 
 To manage projects, you need a virtual environment, packages that will help you develop faster, and a strategy for maintaining packages.
